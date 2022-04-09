@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**umutazazi/umutazazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there,I'm Umut 👋
 
 
 - 🌱 I’m currently learning Flutter
@@ -11,4 +6,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Flutter
 - 📫 How to reach me: umutazazi3@gmail.com
 
--->
+
