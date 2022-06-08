@@ -3,8 +3,7 @@ I've been learning to code for 2 years. I started with Java but I have experienc
 
 *   🌍  I'm based in Izmir/Turkey
 *   ✉️  You can contact me at [umutazazi3@gmail.com](mailto:umutazazi3@gmail.com)
-*   🧠  I'm learning Spring Freamework
-*   🤝  I'm open to collaborating on Mobile Programming with Flutter and Backend with Java
+
 
 
 
