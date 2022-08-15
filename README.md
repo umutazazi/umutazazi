@@ -1,5 +1,5 @@
   ### Hi there,I'm Umut 👋
-I've been learning to code for 2 years. I started with Java but I have experiences with Flutter and more.
+
 
 *   🌍  I'm based in Izmir/Turkey
 *   ✉️  You can contact me at [umutazazi3@gmail.com](mailto:umutazazi3@gmail.com)
