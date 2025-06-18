@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Umut Azazi
 
-I’m a passionate Software Engineer based in Izmir, Turkey — driven by solving real-world problems with clean, scalable, and maintainable code. My experience spans full-stack development, mobile applications, and cross-platform solutions using technologies like .NET, React, and Java. I care deeply about developer experience, long-term impact, and building software that lasts.
+I’m a passionate Software Developer based in Izmir, Turkey — driven by solving real-world problems with clean, scalable, and maintainable code. My experience spans full-stack development, mobile applications, and cross-platform solutions using technologies like .NET, React, and Java. I care deeply about developer experience, long-term impact, and building software that lasts.
 
 ---
 
