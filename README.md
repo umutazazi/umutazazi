@@ -67,12 +67,5 @@ I’m a passionate Software Engineer based in Izmir, Turkey — driven by solvin
 
 ---
 
-### 🌱 I’m currently learning
-- Microservices with .NET
-- Redis & Message Queues
-- Advanced React Patterns
-
----
-
 Thanks for visiting my profile! Let’s connect 👇  
 [LinkedIn](https://www.linkedin.com/in/umutazazi) • [GitHub](https://github.com/umutazazi) • [Email](mailto:umutazazi3@gmail.com)
